@@ -1,2 +1,2 @@
-# recipes
-vefþ2vh - verkefni2
+# myrecipes
+vefþ2vh
